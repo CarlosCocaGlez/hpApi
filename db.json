@@ -20,7 +20,8 @@
       "hogwartsStaff": false,
       "actor": "Daniel Radcliffe",
       "alive": true,
-      "image": "http://hp-api.herokuapp.com/images/harry.jpg"
+      "image": "http://hp-api.herokuapp.com/images/harry.jpg",
+      "favorite":false
     },
     {
       "name": "Hermione Granger",
@@ -42,7 +43,8 @@
       "hogwartsStaff": false,
       "actor": "Emma Watson",
       "alive": true,
-      "image": "http://hp-api.herokuapp.com/images/hermione.jpeg"
+      "image": "http://hp-api.herokuapp.com/images/hermione.jpeg",
+      "favorite": false
     },
     {
       "name": "Ron Weasley",
@@ -64,7 +66,8 @@
       "hogwartsStaff": false,
       "actor": "Rupert Grint",
       "alive": true,
-      "image": "http://hp-api.herokuapp.com/images/ron.jpg"
+      "image": "http://hp-api.herokuapp.com/images/ron.jpg",
+      "favorite": false
     },
     {
       "name": "Draco Malfoy",
@@ -86,7 +89,8 @@
       "hogwartsStaff": false,
       "actor": "Tom Felton",
       "alive": true,
-      "image": "http://hp-api.herokuapp.com/images/draco.jpg"
+      "image": "http://hp-api.herokuapp.com/images/draco.jpg",
+      "favorite": false
     },
     {
       "name": "Minerva McGonagall",
@@ -108,7 +112,8 @@
       "hogwartsStaff": true,
       "actor": "Dame Maggie Smith",
       "alive": true,
-      "image": "http://hp-api.herokuapp.com/images/mcgonagall.jpg"
+      "image": "http://hp-api.herokuapp.com/images/mcgonagall.jpg",
+      "favorite": false
     },
     {
       "name": "Cedric Diggory",
@@ -130,7 +135,8 @@
       "hogwartsStaff": false,
       "actor": "Robert Pattinson",
       "alive": false,
-      "image": "http://hp-api.herokuapp.com/images/cedric.png"
+      "image": "http://hp-api.herokuapp.com/images/cedric.png",
+      "favorite": false
     },
     {
       "name": "Cho Chang",
@@ -152,7 +158,8 @@
       "hogwartsStaff": false,
       "actor": "Katie Leung",
       "alive": true,
-      "image": "http://hp-api.herokuapp.com/images/cho.jpg"
+      "image": "http://hp-api.herokuapp.com/images/cho.jpg",
+      "favorite": false
     },
     {
       "name": "Severus Snape",
@@ -174,7 +181,8 @@
       "hogwartsStaff": true,
       "actor": "Alan Rickman",
       "alive": false,
-      "image": "http://hp-api.herokuapp.com/images/snape.jpg"
+      "image": "http://hp-api.herokuapp.com/images/snape.jpg",
+      "favorite": false
     },
     {
       "name": "Rubeus Hagrid",
@@ -196,7 +204,8 @@
       "hogwartsStaff": true,
       "actor": "Robbie Coltrane",
       "alive": true,
-      "image": "http://hp-api.herokuapp.com/images/hagrid.png"
+      "image": "http://hp-api.herokuapp.com/images/hagrid.png",
+      "favorite": false
     },
     {
       "name": "Neville Longbottom",
@@ -218,7 +227,8 @@
       "hogwartsStaff": false,
       "actor": "Matthew Lewis",
       "alive": true,
-      "image": "http://hp-api.herokuapp.com/images/neville.jpg"
+      "image": "http://hp-api.herokuapp.com/images/neville.jpg",
+      "favorite": false
     },
     {
       "name": "Luna Lovegood",
@@ -240,7 +250,8 @@
       "hogwartsStaff": false,
       "actor": "Evanna Lynch",
       "alive": true,
-      "image": "http://hp-api.herokuapp.com/images/luna.jpg"
+      "image": "http://hp-api.herokuapp.com/images/luna.jpg",
+      "favorite": false
     },
     {
       "name": "Ginny Weasley",
@@ -262,7 +273,8 @@
       "hogwartsStaff": false,
       "actor": "Bonnie Wright",
       "alive": true,
-      "image": "http://hp-api.herokuapp.com/images/ginny.jpg"
+      "image": "http://hp-api.herokuapp.com/images/ginny.jpg",
+      "favorite": false
     },
     {
       "name": "Sirius Black",
@@ -284,7 +296,8 @@
       "hogwartsStaff": false,
       "actor": "Gary Oldman",
       "alive": false,
-      "image": "http://hp-api.herokuapp.com/images/sirius.JPG"
+      "image": "http://hp-api.herokuapp.com/images/sirius.JPG",
+      "favorite": false
     },
     {
       "name": "Remus Lupin",
@@ -306,7 +319,8 @@
       "hogwartsStaff": true,
       "actor": "David Thewlis",
       "alive": false,
-      "image": "http://hp-api.herokuapp.com/images/lupin.jpg"
+      "image": "http://hp-api.herokuapp.com/images/lupin.jpg",
+      "favorite": false
     },
     {
       "name": "Arthur Weasley",
@@ -328,7 +342,8 @@
       "hogwartsStaff": false,
       "actor": "Mark Williams",
       "alive": true,
-      "image": "http://hp-api.herokuapp.com/images/arthur.jpg"
+      "image": "http://hp-api.herokuapp.com/images/arthur.jpg",
+      "favorite": false
     },
     {
       "name": "Bellatrix Lestrange",
@@ -350,7 +365,8 @@
       "hogwartsStaff": false,
       "actor": "Helena Bonham Carter",
       "alive": false,
-      "image": "http://hp-api.herokuapp.com/images/bellatrix.jpg"
+      "image": "http://hp-api.herokuapp.com/images/bellatrix.jpg",
+      "favorite": false
     },
     {
       "name": "Lord Voldemort",
@@ -372,7 +388,8 @@
       "hogwartsStaff": false,
       "actor": "Ralph Fiennes",
       "alive": false,
-      "image": "http://hp-api.herokuapp.com/images/voldemort.jpg"
+      "image": "http://hp-api.herokuapp.com/images/voldemort.jpg",
+      "favorite": false
     },
     {
       "name": "Horace Slughorn",
@@ -394,7 +411,8 @@
       "hogwartsStaff": true,
       "actor": "Jim Broadbent",
       "alive": true,
-      "image": "http://hp-api.herokuapp.com/images/slughorn.JPG"
+      "image": "http://hp-api.herokuapp.com/images/slughorn.JPG",
+      "favorite": false
     },
     {
       "name": "Kingsley Shacklebolt",
@@ -416,7 +434,8 @@
       "hogwartsStaff": false,
       "actor": "George Harris",
       "alive": true,
-      "image": "http://hp-api.herokuapp.com/images/kingsley.jpg"
+      "image": "http://hp-api.herokuapp.com/images/kingsley.jpg",
+      "favorite": false
     },
     {
       "name": "Dolores Umbridge",
@@ -438,7 +457,8 @@
       "hogwartsStaff": true,
       "actor": "Imelda Staunton",
       "alive": true,
-      "image": "http://hp-api.herokuapp.com/images/umbridge.jpg"
+      "image": "http://hp-api.herokuapp.com/images/umbridge.jpg",
+      "favorite": false
     },
     {
       "name": "Lucius Malfoy",
@@ -460,7 +480,8 @@
       "hogwartsStaff": false,
       "actor": "Jason Isaacs",
       "alive": true,
-      "image": "http://hp-api.herokuapp.com/images/lucius.jpg"
+      "image": "http://hp-api.herokuapp.com/images/lucius.jpg",
+      "favorite": false
     },
     {
       "name": "Vincent Crabbe",
@@ -482,7 +503,8 @@
       "hogwartsStaff": false,
       "actor": "Jamie Waylett",
       "alive": false,
-      "image": "http://hp-api.herokuapp.com/images/crabbe.jpg"
+      "image": "http://hp-api.herokuapp.com/images/crabbe.jpg",
+      "favorite": false
     },
     {
       "name": "Gregory Goyle",
@@ -504,7 +526,8 @@
       "hogwartsStaff": false,
       "actor": "Josh Herdman",
       "alive": true,
-      "image": "http://hp-api.herokuapp.com/images/goyle.jpg"
+      "image": "http://hp-api.herokuapp.com/images/goyle.jpg",
+      "favorite": false
     },
     {
       "name": "Mrs Norris",
@@ -526,7 +549,8 @@
       "hogwartsStaff": true,
       "actor": "Maxime, Alanis and Tommy the cats",
       "alive": true,
-      "image": "http://hp-api.herokuapp.com/images/norris.JPG"
+      "image": "http://hp-api.herokuapp.com/images/norris.JPG",
+      "favorite": false
     },
     {
       "name": "Argus Filch",
@@ -548,7 +572,20 @@
       "hogwartsStaff": true,
       "actor": "David Bradley",
       "alive": true,
-      "image": "http://hp-api.herokuapp.com/images/filch.jpg"
+      "image": "http://hp-api.herokuapp.com/images/filch.jpg",
+      "favorite": false
+    },
+    {
+      "id": "545250fa-9863-400b-aa1b-519364461360",
+      "name": "que preguntas",
+      "gender": "Hombre",
+      "dateOfBirth": "ni te importa",
+      "eyeColour": "telocico",
+      "hairColour": "jajaaj",
+      "hogwartsStudent": true,
+      "hogwartsStaff": false,
+      "image": "http://hp-api.herokuapp.com/images/harry.jpg",
+      "favorite": false
     }
   ]
 }
